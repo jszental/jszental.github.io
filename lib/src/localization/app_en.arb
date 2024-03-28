@@ -1,0 +1,6 @@
+{
+  "appTitle": "medmonitor",
+  "@appTitle": {
+    "description": "Track medication administration times"
+  }
+}
